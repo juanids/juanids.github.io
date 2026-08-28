@@ -46,7 +46,7 @@ Welcome to the Python-based simulation framework designed to model, visualize, a
     <ul>
       <li style="margin-bottom: 10px;"><strong>Custom Resistance Models:</strong> Inject your own custom mathematical equations to define the electrical behavior of the system.</li>
       <li style="margin-bottom: 10px;"><strong>Granular Control:</strong> Assign unique static or dynamic physical rules independently to the nanowires, the wire-to-wire junctions, and the electrode contacts.</li>
-      <li><strong>Neuromorphic Emulation:</strong> Apply custom pulse trains to study temporal dynamics, observing critical state changes such as network activation and current relaxation over time[cite: 2].</li>
+      <li><strong>Neuromorphic Emulation:</strong> Apply custom pulse trains to study temporal dynamics, observing critical state changes such as network activation and current relaxation over time.</li>
     </ul>
   </div>
   <div style="flex: 1; min-width: 250px; text-align: center;">
