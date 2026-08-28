@@ -53,15 +53,19 @@ PhD candidate in Physics with a multidisciplinary track record spanning material
 <summary><strong>🛠️ Technical Skills & Expertise</strong></summary>
 
 * **In-Materia Computing & Characterization:**
-  * Multi-terminal parallel electrical characterization and real-time physical learning protocols (>10 kHz bandwidth).
-  * Advanced transport characterization: DC/pulsed I-V sweeps, impedance spectroscopy, and Conductive Atomic Force Microscopy (C-AFM).
-  * Custom environmental control systems (PID-regulated airflow and humidity testing setups).
+    * Multi-terminal parallel electrical characterization and real-time physical learning protocols (>10 kHz bandwidth).
+    * Advanced transport characterization: DC/pulsed I-V sweeps, impedance spectroscopy, and Conductive Atomic Force Microscopy (C-AFM).
+    * Custom environmental control systems (PID-regulated airflow and humidity testing setups).
+* **Chemical Synthesis & Cleanroom Microfabrication:**
+    * **Advanced Cleanroom User:** Over 6 years of intensive hands-on experience (Master's and PhD) operating within cleanroom facilities for device fabrication.
+    * **Synthesis:** Wet-chemical synthesis of functional nanomaterials (Ag nanowire networks) and sol-gel deposition of transition metal oxides (TiO2).
+    * **Microfabrication:** Full-cycle fabrication of memristive devices and multi-terminal metallic electrodes on glass and silicon substrates.
 * **Hardware & Electronic Engineering:**
-  * PCB Design & Embedded Systems: Schematic design, layout routing, and prototyping of custom acquisition hardware (PAN Board) using microcontrollers (Arduino, standard ESP32).
-  * Nanofabrication & Prototyping: Thin-film sol-gel processing, electrode design and microfabrication on glass/silicon substrates, 3D printing, and rapid prototyping.
+    * PCB Design & Embedded Systems: Schematic design, layout routing, and prototyping of custom acquisition hardware (PAN Board) using microcontrollers (Arduino, standard ESP32).
+    * 3D printing and rapid prototyping for custom laboratory testbeds.
 * **Modeling & Scientific Computing:**
-  * Programming & Numerical Methods: Advanced Python (NumPy, SciPy, Matplotlib) for custom physical simulations (percolation regimes, dynamic transport modeling), hardware automation, and data processing.
-  * Machine Learning & Signal Analysis: Implementation of physical reservoir computing and neuromorphic learning algorithms.
+    * Programming & Numerical Methods: Advanced Python (NumPy, SciPy, Matplotlib) for custom physical simulations (percolation regimes, dynamic transport modeling), hardware automation, and data processing.
+    * Machine Learning & Signal Analysis: Implementation of physical reservoir computing and neuromorphic learning algorithms.
 * **Languages:** Spanish (Native), English (Professional Working Proficiency - B2/Upper Intermediate).
 
 </details>
