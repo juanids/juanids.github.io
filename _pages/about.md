@@ -28,13 +28,13 @@ PhD candidate in Physics with a multidisciplinary track record spanning material
 <summary><strong>🌍 Research Stays & Internships</strong></summary>
 
 * **National Institute of Metrological Research (INRIM) | Turin, Italy (2024, 2025)**
-  * Visiting Researcher (Supervisor: Dr. Gianluca Milano). Executed hardware-based Reservoir Computing tasks on functional nanocomposite materials and developed multi-electrode characterization protocols for self-assembled silver nanowire networks.
+    * Visiting Researcher (Supervisor: Dr. Gianluca Milano). Executed hardware-based Reservoir Computing tasks on functional nanocomposite materials and developed multi-electrode characterization protocols for self-assembled silver nanowire networks.
 * **San Martin University (UNSAM) / CNEA | Buenos Aires, Argentina (2023)**
-  * Visiting Researcher (Supervisor: Dr. Cynthia Quinteros). Carried out impedance spectroscopy characterization of silver nanowire networks.
+    * Visiting Researcher (Supervisor: Dr. Cynthia Quinteros). Carried out impedance spectroscopy characterization of silver nanowire networks.
 * **Constituyentes Atomic Center (CNEA) | Buenos Aires, Argentina (2021-2022)**
-  * Visiting Researcher (Supervisors: Dr. Leticia Granja, Dr. Paula Angelomé). Measured nanoscale electrical properties of silver nanowire networks via conductive AFM (C-AFM) and performed spectroscopic characterization of self-assembled nanomaterials.
+    * Visiting Researcher (Supervisors: Dr. Leticia Granja, Dr. Paula Angelomé). Measured nanoscale electrical properties of silver nanowire networks via conductive AFM (C-AFM) and performed spectroscopic characterization of self-assembled nanomaterials.
 * **Nanoscience & Nanotechnology Institute (CNEA-CONICET) | Bariloche, Argentina (2020)**
-  * Training Researcher (Supervisors: Dr. Eduardo Martínez, Dr. Pablo Levy). Fabricated TiO2 sol-gel thin-film memristive devices via wet-chemical deposition and microfabrication techniques.
+    * Training Researcher (Supervisors: Dr. Eduardo Martínez, Dr. Pablo Levy). Fabricated TiO2 sol-gel thin-film memristive devices via wet-chemical deposition and microfabrication techniques.
 
 </details>
 
