@@ -1,23 +1,144 @@
-<details>
-  <summary><strong>🎓 Educación (Click para expandir)</strong></summary>
+---
+layout: archive
+title: "Interactive Curriculum Vitae"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-  * **2022-2026 (Esperado):** Doctorado en Física, Instituto Balseiro. Tesis: "Sistemas Neuromórficos Autoensamblados...".
-  * **2021:** Licenciatura y Maestría en Física, Instituto Balseiro.
+{% include base_path %}
+
+<details>
+  <summary><strong>🎓 Education</strong></summary>
+
+  <br>
+
+  * **2022 - 2026 (Expected): PhD in Physics at the Balseiro Institute**[cite: 2]
+    * Thesis Title: *"Self-Assembled Neuromorphic Systems Based on Silver Nanowires and Metal Oxides"*.[cite: 2]
+    * Advisors: Prof. Martinez, Eduardo - Prof. Levy, Pablo.[cite: 2]
+  * **2021: Bachelor's and Master's Degree in Physics at the Balseiro Institute**[cite: 2]
+    * Thesis Title: *"Neuromorphic systems based on memristor devices produced by microfabrication, self-assembly and sol-gel methods"*.[cite: 2]
+    * Advisors: Prof. Martinez, Eduardo - Prof. Levy, Pablo.[cite: 2]
+    * Average: 9.25. Thesis Grade: Excellent.[cite: 2]
+  * **2015 - 2018 (Unfinished): Chemical Engineering, Universidad Nacional del Litoral**[cite: 2]
+    * Percentage of approved plan: 52%.[cite: 2]
 
 </details>
 
 <details>
-  <summary><strong>🌍 Estadías de Investigación</strong></summary>
+  <summary><strong>🌍 Research Stays & Internships</strong></summary>
 
-  * **INRIM (Turín, Italia):** Investigador visitante. Ejecución de tareas de Reservoir Computing en nanocompuestos.
-  * **UNSAM / CNEA (Buenos Aires):** Espectroscopía de impedancia en redes de nanohilos.
+  <br>
+
+  * **National Institute of Metrological Research (INRIM) | Turin, Italy (2024, 2025)**[cite: 2]
+    * Visiting Researcher (Supervisor: Dr. Gianluca Milano)[cite: 2]. Executed hardware-based Reservoir Computing tasks on functional nanocomposite materials and developed multi-electrode characterization protocols for self-assembled silver nanowire networks.[cite: 2]
+  * **San Martin University (UNSAM) / CNEA | Buenos Aires, Argentina (2023)**[cite: 2]
+    * Visiting Researcher (Supervisor: Dr. Cynthia Quinteros)[cite: 2]. Carried out impedance spectroscopy characterization of silver nanowire networks.[cite: 2]
+  * **Constituyentes Atomic Center (CNEA) | Buenos Aires, Argentina (2021-2022)**[cite: 2]
+    * Visiting Researcher (Supervisors: Dr. Leticia Granja, Dr. Paula Angelomé)[cite: 2]. Measured nanoscale electrical properties of silver nanowire networks via conductive AFM (C-AFM) and performed spectroscopic characterization of self-assembled nanomaterials.[cite: 2]
+  * **Nanoscience & Nanotechnology Institute (CNEA-CONICET) | Bariloche, Argentina (2020)**[cite: 2]
+    * Training Researcher (Supervisors: Dr. Eduardo Martínez, Dr. Pablo Levy)[cite: 2]. Fabricated TiO2 sol-gel thin-film memristive devices via wet-chemical deposition and microfabrication techniques.[cite: 2]
 
 </details>
 
 <details>
-  <summary><strong>🔌 Hardware Testbed (PAN Board)</strong></summary>
+  <summary><strong>📝 Scientific Production (Journal Publications)</strong></summary>
 
-  Desarrollo de hardware de adquisición automatizada utilizando microcontroladores ESP32 estándar para correlacionar propiedades estructurales con rendimiento eléctrico.
-  [Ver repositorio de Github](#)
+  <br>
+
+  * **2026:** J.I. Diaz Schneider, C. Gomez, C. Acha, P.E. Levy, E.D. Martinez, C.P. Quinteros; "Thermal tuning of dynamic response in Ag-based nanowire networks for neuromorphic architectures", (Draft in final preparation).[cite: 2]
+  * **2026:** J.I. Diaz Schneider, A.P. Moresi, M. Juri, S. Anguiano, C.P. Quinteros, P.E. Levy, E.D. Martinez; "Nanowire Nanocomposite Networks with Controlled Resistive Switching and Learning Abilities", Advanced Functional Materials. [DOI: 10.1002/adfm.77408](https://doi.org/10.1002/adfm.77408)[cite: 2]
+  * **2024:** J.I. Diaz Schneider, C.P. Quinteros, P.E. Levy, E.D. Martinez; "Two-junction model in different percolation regimes of silver nanowires networks", Advanced Functional Materials. [DOI: 10.1002/adfm.202410766](https://doi.org/10.1002/adfm.202410766)[cite: 2]
+  * **2022:** J. I. Diaz Schneider, P. C. Angelomé, L. P. Granja, C. P. Quinteros, P. E. Levy, E. D. Martínez; "Resistive switching of self-assembled silver nanowire networks governed by environmental conditions"; Advanced Electronic Materials. [DOI: 10.1002/aelm.202200631](https://doi.org/10.1002/aelm.202200631)[cite: 2]
+  * **2022:** J. I. Diaz Schneider, P. Chehade, D. Pérez-Morelo, L. P. Granja, E. D. Martínez; "Multipurpose nanocomposite resist for free-standing transparent conductive thin films"; Flexible and Printed Electronics. [DOI: 10.1088/2058-8585/ac97a5](https://doi.org/10.1088/2058-8585/ac97a5)[cite: 2]
+
+</details>
+
+<details>
+  <summary><strong>🛠️ Technical Skills & Expertise</strong></summary>
+
+  <br>
+
+  * **In-Materia Computing & Characterization:**[cite: 2]
+    * Multi-terminal parallel electrical characterization and real-time physical learning protocols (>10 kHz bandwidth).[cite: 2]
+    * Advanced transport characterization: DC/pulsed I-V sweeps, impedance spectroscopy, and Conductive Atomic Force Microscopy (C-AFM).[cite: 2]
+    * Custom environmental control systems (PID-regulated airflow and humidity testing setups).[cite: 2]
+  * **Hardware & Electronic Engineering:**[cite: 2]
+    * PCB Design & Embedded Systems: Schematic design, layout routing, and prototyping of custom acquisition hardware (PAN Board) using microcontrollers (Arduino, ESP32).[cite: 2]
+    * Nanofabrication & Prototyping: Thin-film sol-gel processing, electrode design and microfabrication on glass/silicon substrates, 3D printing, and rapid prototyping.[cite: 2]
+  * **Modeling & Scientific Computing:**[cite: 2]
+    * Programming & Numerical Methods: Advanced Python (NumPy, SciPy, Matplotlib) for custom physical simulations (percolation regimes, dynamic transport modeling), hardware automation, and data processing.[cite: 2]
+    * Machine Learning & Signal Analysis: Implementation of physical reservoir computing and neuromorphic learning algorithms.[cite: 2]
+  * **Languages:** Spanish (Native), English (Professional Working Proficiency - B2/Upper Intermediate).[cite: 2]
+
+</details>
+
+<details>
+  <summary><strong>🎙️ Invited Seminars & Conference Presentations</strong></summary>
+
+  <br>
+
+  * **2026:** Nanodevices Group Seminar. CIC nanoGUNE, San Sebastián, Spain.[cite: 2]
+  * **2026:** Functional Oxide Interfaces and Photonics Group Seminar. ICMAB-CSIC, Barcelona, Spain.[cite: 2]
+  * **2026:** Physics and Engineering of Nanodevices Group Seminar. Catalan Institute of Nanoscience and Nanotechnology (ICN2), Barcelona, Spain.[cite: 2]
+  * **2026:** Poster Presentation - XXIV Meeting on Nanostructured Materials and Surfaces (Nano2026). [Buenos Aires, Argentina]. *(Awarded Best Poster in Materials Properties).*[cite: 2]
+  * **2025:** Oral Presentation - VIII International Conference on Memristive Materials, Devices & Systems (MEMRISYS). [Edinburgh, UK].[cite: 2]
+  * **2025:** Oral Presentation - X National Solids Meeting (Sólidos 2025). [Bariloche, Argentina].[cite: 2]
+  * **2025:** Oral Presentation - IB70 Congress. Bariloche, Argentina.[cite: 2]
+  * **2025:** Poster Presentation - XXIII Meeting on Nanostructured Materials and Surfaces (Nano2025). [Tucumán, Argentina]. *(3rd Place Best Poster Award).*[cite: 2]
+  * **2021:** Oral and Poster Presentation - Annual Meeting of the Argentine Physics Association (RAFA). [Bariloche, Argentina]. *(Best Poster Award - Industry & Technology).*[cite: 2]
+  * *(Note: Contributed to over 10 poster and oral presentations at national and international conferences since 2020).*[cite: 2]
+
+</details>
+
+<details>
+  <summary><strong>🏆 Grants, Awards & Fellowships</strong></summary>
+
+  <br>
+
+  * **2026:** Best Poster Award in Materials Properties, Nano2026.[cite: 2]
+  * **2025:** Balseiro Foundation Travel Grant (MEMRISYS 2025, UK).[cite: 2]
+  * **2025:** 3rd Place Best Poster Award, Nano2025.[cite: 2]
+  * **2024:** NanoAndes Foundation Travel Grant (European School of Nanoscience).[cite: 2]
+  * **2022 - 2027:** CONICET Doctoral Fellowship.[cite: 2]
+  * **2018 - 2021:** CNEA Merit Fellowship for Undergraduate & Master's Studies.[cite: 2]
+
+</details>
+
+<details>
+  <summary><strong>👨‍🏫 Mentoring, Teaching & Academic Service</strong></summary>
+
+  <br>
+
+  * **Journal Reviewer:** Colloids and Surfaces A: Physicochemical and Engineering Aspects.[cite: 2]
+  * **Teaching Assistant:** Balseiro Institute (2023-Present) - Undergraduate courses in Electronics, Thermodynamics, and Mathematics.[cite: 2]
+  * **Mentoring & Student Supervision:**[cite: 2]
+    * Ramiro Zagorda (2026): *"Device Physics: emulation of neurons and synapses using memristor networks"*.[cite: 2]
+    * Edison Ignacio Bertero (2025): *"Resistive switching of metallic nanowire networks under mechanical strain"*.[cite: 2]
+    * Ana Paula Moresi (2025): *"Resistive Switching in Silver Nanowire Networks within Multi-Electrode Systems"* (Resulted in co-authored publication).[cite: 2]
+    * Tomas Klug (2024): *"Synthesis and characterization of silver nanowire nanocomposites in a PVP matrix"*.[cite: 2]
+    * Francisco Pereyra Aponte (2024): *"Characterization of self-assembled nanowire networks in a PMMA matrix"*.[cite: 2]
+    * Gaspar Ferreyra Vaggione (2024): *"Synthesis and characterization of silver nanowire nanocomposites for neuromorphic applications"*.[cite: 2]
+
+</details>
+
+<details>
+  <summary><strong>📚 Schools & Postgraduate Courses</strong></summary>
+
+  <br>
+
+  * **2025:** XXI European School on Nanosciences and Nanotechnologies.[cite: 2]
+  * **2022:** X School of Materials Synthesis: Sol-Gel Processes - Miguel A. Blesa.[cite: 2]
+  * **2022:** School of Materials Modeling.[cite: 2]
+  * Neural Networks.[cite: 2]
+  * Deep learning and artificial neural networks.[cite: 2]
+  * Introduction to Mesoscopic Physics, Superconductivity and Quantum Circuits.[cite: 2]
+  * Characterization of materials.[cite: 2]
+  * Chemistry and Introduction to Materials.[cite: 2]
+  * Introduction to numerical computation on graphics processors.[cite: 2]
+  * Condensed matter phenomenology.[cite: 2]
+  * Crystal structure, point defects and diffusion in solids.[cite: 2]
+  * Theory of elasticity, dislocations and mechanical properties.[cite: 2]
 
 </details>
