@@ -6,7 +6,7 @@ author_profile: true
 
 <!-- Pequeño enlace superior -->
 <p style="font-size: 0.9em; margin-bottom: 5px; text-align: right;">
-  <a href="https://github.com/TU-USUARIO/agnws" target="_blank" style="text-decoration: none; color: #0366d6;">
+  <a href="https://github.com/juanids/agnws" target="_blank" style="text-decoration: none; color: #0366d6;">
     <i class="fab fa-github"></i> Acceder al repositorio de GitHub
   </a>
 </p>
@@ -78,7 +78,7 @@ Welcome to the Python-based simulation framework designed to model, visualize, a
 <div style="text-align: center; margin-top: 50px; padding: 30px; background-color: #f6f8fa; border-radius: 8px; border: 1px solid #e1e4e8;">
   <h3 style="margin-top: 0;">Ready to run your own simulations?</h3>
   <p style="margin-bottom: 20px;">Dive into the code, explore the technical documentation, and start building your custom models.</p>
-  <a href="https://github.com/TU-USUARIO/agnws" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <a href="https://github.com/juanids/agnws" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <i class="fab fa-github" style="margin-right: 8px;"></i> View Source Code on GitHub
   </a>
 </div>
