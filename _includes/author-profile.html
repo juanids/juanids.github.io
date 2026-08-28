@@ -27,9 +27,10 @@
       {% if author.location %}
         <li>
           <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> 
-          <a href="https://https://bicyt.conicet.gov.ar/fichas/p/en/juan-ignacio-diaz-schneider" target="_blank" style="text-decoration: none;">CONICET</a> | 
-          <a href="https://www.ib.edu.ar/" target="_blank" style="text-decoration: none;">IB</a>
-        </li>      
+          <a href="https://bicyt.conicet.gov.ar/fichas/p/en/juan-ignacio-diaz-schneider" target="_blank" style="display: inline; text-decoration: none; padding: 0;">CONICET</a> 
+          <span style="display: inline; margin: 0 4px;">|</span> 
+          <a href="https://www.ib.edu.ar/" target="_blank" style="display: inline; text-decoration: none; padding: 0;">IB</a>
+        </li>    
       {% endif %}
       {% if author.employer %}
         <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
