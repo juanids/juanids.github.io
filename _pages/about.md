@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Interactive Curriculum Vitae"
+title: "My Profile"
 permalink: /
 author_profile: true
 ---
