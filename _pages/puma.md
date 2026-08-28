@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /hardware/
+permalink: /puma/
 author_profile: true
 ---
 
