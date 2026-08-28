@@ -8,24 +8,9 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Trayectoria (CV)"
-    url: /cv/
-    children:
-      - title: "Educación"
-        url: /cv/#educación
-      - title: "Estadías de Investigación"
-        url: /cv/#estadías-de-investigación
-      - title: "Habilidades Técnicas"
-        url: /cv/#habilidades-técnicas
+  - title: "Hardware Testbed"
+    url: /pan/
+    
+  - title: "Simulation Framework"
+    
 
-  - title: "Investigación & Desarrollo"
-    children:
-      - title: "Publicaciones"
-        url: /publications/
-      - title: "Hardware: PAN Board"
-        url: https://github.com/tu-usuario/multi-electrode-characterization-board
-      - title: "Plataforma de Simulaciones"
-        url: https://github.com/tu-usuario/memristive-transport-simulations
-
-  - title: "Charlas y Congresos"
-    url: /talks/
