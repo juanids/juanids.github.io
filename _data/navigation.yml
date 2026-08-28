@@ -9,8 +9,7 @@
 
 main:
   - title: "Hardware Testbed"
-    url: /Puma/
-    
+    url: /puma/
   - title: "Simulation Framework"
     url: /simulations/
   - title: "Publications"
