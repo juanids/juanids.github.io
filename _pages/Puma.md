@@ -38,7 +38,7 @@ author_profile: true
     </ul>
   </div>
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/images/puma-board.jpg" alt="PUMA Custom PCB Board" style="width: 100%; max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/images/placa_v1_3.png" alt="PUMA Custom PCB Board" style="width: 100%; max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <span style="font-size: 0.85em; color: #666; display: block; margin-top: 8px; font-style: italic;">PUMA custom PCB featuring 16 independent terminals.</span>
   </div>
 </div>
