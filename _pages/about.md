@@ -69,7 +69,13 @@ PhD candidate in Physics with a multidisciplinary track record spanning material
 * **Languages:** Spanish (Native), English (Professional Working Proficiency - B2/Upper Intermediate).
 
 </details>
+<details markdown="1">
+<summary><strong>🚀 Research Projects</strong></summary>
 
+* **PIET-R 2026:** IA-CoNSoFi (In-Materia Computing for Artificial Intelligence).
+* **PICT 2022:** Self-Assembled Neuromorphic Nanostructures (NNA).
+
+</details>
 <details markdown="1">
 <summary><strong>🎙️ Invited Seminars & Conference Presentations</strong></summary>
 
