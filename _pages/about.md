@@ -100,12 +100,12 @@ PhD candidate in Physics with a multidisciplinary track record spanning material
 * **Journal Reviewer:** Colloids and Surfaces A: Physicochemical and Engineering Aspects.
 * **Teaching Assistant:** Balseiro Institute (2023-Present) - Undergraduate courses in Electronics, Thermodynamics, and Mathematics.
 * **Mentoring & Student Supervision:**
-  * Ramiro Zagorda (2026): *"Device Physics: emulation of neurons and synapses using memristor networks"*.
-  * Edison Ignacio Bertero (2025): *"Resistive switching of metallic nanowire networks under mechanical strain"*.
-  * Ana Paula Moresi (2025): *"Resistive Switching in Silver Nanowire Networks within Multi-Electrode Systems"* (Resulted in co-authored publication).
-  * Tomas Klug (2024): *"Synthesis and characterization of silver nanowire nanocomposites in a PVP matrix"*.
-  * Francisco Pereyra Aponte (2024): *"Characterization of self-assembled nanowire networks in a PMMA matrix"*.
-  * Gaspar Ferreyra Vaggione (2024): *"Synthesis and characterization of silver nanowire nanocomposites for neuromorphic applications"*.
+  * **Undergraduate Research Project (2026):** *"Device Physics: emulation of neurons and synapses using memristor networks"*.
+  * **Undergraduate Research Project (2025):** *"Resistive switching of metallic nanowire networks under mechanical strain"*.
+  * **Undergraduate Research Project (2025):** *"Resistive Switching in Silver Nanowire Networks within Multi-Electrode Systems"* (Resulted in co-authored publication).
+  * **Summer Research Internship (2024):** *"Synthesis and characterization of silver nanowire nanocomposites in a PVP matrix"*.
+  * **Undergraduate Research Project (2024):** *"Characterization of self-assembled nanowire networks in a PMMA matrix"*.
+  * **Summer Research Internship (2024):** *"Synthesis and characterization of silver nanowire nanocomposites for neuromorphic applications"*.
 
 </details>
 
