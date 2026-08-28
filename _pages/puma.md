@@ -6,7 +6,7 @@ author_profile: true
 
 <!-- Top right GitHub link -->
 <p style="font-size: 0.9em; margin-bottom: 5px; text-align: right;">
-  <a href="https://github.com/YOUR-USERNAME/YOUR-HARDWARE-REPO" target="_blank" style="text-decoration: none; color: #0366d6;">
+  <a href="https://github.com/juanids/puma" target="_blank" style="text-decoration: none; color: #0366d6;">
     <i class="fab fa-github"></i> Access Hardware Repository
   </a>
 </p>
