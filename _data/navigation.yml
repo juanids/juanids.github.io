@@ -12,5 +12,8 @@ main:
     url: /pan/
     
   - title: "Simulation Framework"
+    url: /simulation/
+  - title: "Publications"
+    url: /publication/
     
 
