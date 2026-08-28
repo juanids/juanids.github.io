@@ -31,7 +31,7 @@ author_profile: true
     <p style="text-align: justify;">This research presents the first demonstration of electrofusing in these networks, leading to subsequent resistive switching. We observed a strong dependence on environmental moisture—while ensuring the samples were not electrically stimulated under high humidity conditions—and provided a comprehensive physical explanation for the underlying mechanisms driving this behavior.</p>
   </div>
   <a href="https://doi.org/10.1002/aelm.202200631" target="_blank">
-    <img src="/images/pub3-2022.jpg" alt="Environmental conditions switching" style="width: 250px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/images/pub3-2022.png" alt="Environmental conditions switching" style="width: 250px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
@@ -41,6 +41,6 @@ author_profile: true
     <p style="text-align: justify;">We developed a novel material based on a PMMA matrix embedded with silver nanowire networks to form free-standing films. These versatile films can be deposited onto various surfaces and even stacked, successfully maintaining high electrical conductance while preserving excellent optical transmittance.</p>
   </div>
   <a href="https://doi.org/10.1088/2058-8585/ac97a5" target="_blank">
-    <img src="/images/pub4-2022.jpg" alt="Free-standing thin films" style="width: 250px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/images/pub4-2022.png" alt="Free-standing thin films" style="width: 250px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
