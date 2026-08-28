@@ -54,10 +54,7 @@ author_profile: true
       <li><strong>Real-Time Analysis:</strong> Direct integration with standard scientific libraries (NumPy, Matplotlib) to visualize temporal dynamics and log data instantly.</li>
     </ul>
   </div>
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/images/puma-software.jpg" alt="Python Interface for PUMA" style="width: 100%; max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <span style="font-size: 0.85em; color: #666; display: block; margin-top: 8px; font-style: italic;">Automated data acquisition and real-time visualization via Python.</span>
-  </div>
+ 
 </div>
 
 <!-- SECTION 3: Open Source & Final Button -->
