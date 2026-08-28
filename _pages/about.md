@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+<p style="text-align: justify;">
 PhD candidate in Physics with a multidisciplinary track record spanning material synthesis, advanced electrical characterization, numerical modeling, and custom hardware development for in-materia neuromorphic computing. Expert in designing and simulating percolation regimes in functional nanomaterials, leveraging self-coded Python frameworks to predict transport dynamics and engineer tailored nanocomposites. Proven capability in hardware engineering, having designed and fabricated a custom multi-terminal PCB platform (>10 kHz bandwidth) for real-time electrical characterization and physical learning protocols in complex nanowire networks.
-
+</p>
 <details markdown="1">
 <summary><strong>🎓 Education</strong></summary>
 
