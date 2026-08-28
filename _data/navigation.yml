@@ -9,7 +9,7 @@
 
 main:
   - title: "Hardware Testbed"
-    url: /pan/
+    url: /Puma/
     
   - title: "Simulation Framework"
     url: /simulations/
