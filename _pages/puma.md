@@ -32,7 +32,7 @@ author_profile: true
       <li style="margin-bottom: 10px;"><strong>16 Independent Electrodes:</strong> Full state independence for each of the 16 terminals, allowing highly localized dynamic routing via onboard CD4051 multiplexers.</li>
       <li style="margin-bottom: 10px;"><strong>Dual Stimulation Channels:</strong> Capability to drive the network with two distinct arbitrary signals simultaneously.</li>
       <li style="margin-bottom: 10px;"><strong>Voltage Range & Resolution:</strong> Output compliance ranging from 0 to 10 V with a fine-tuning resolution of 2.5 mV.</li>
-      <li style="margin-bottom: 10px;"><strong>High-Speed Acquisition:</strong> Sampling rate of 200 kHz to accurately capture fast transient responses and physical learning events.</li>
+      <li style="margin-bottom: 10px;"><strong>High-Speed Acquisition:</strong> Sampling rate more than 10 kHz to accurately capture fast transient responses and physical learning events.</li>
       <li style="margin-bottom: 10px;"><strong>Configurable Load Resistors:</strong> Independent series resistors to ground for each electrode, manually selectable from 5 k&Omega; up to 10 M&Omega; to limit compliance currents.</li>
       <li><strong>Ultra-Low Leakage:</strong> Exceptional electrical isolation, ensuring negligible current leakage when terminals are switched to a floating (High-Z) state.</li>
     </ul>
